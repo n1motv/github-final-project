@@ -9,4 +9,5 @@ The goal is to demonstrate the migration of code from SVN to Git, following best
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/simple-interest-calculator.git
+   git clone https://github.com/n1motv/jbbmo-Introduction-to-Git-and-GitHub2.git
+```
