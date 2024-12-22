@@ -1,16 +1,12 @@
-# Introduction to Git and GitHub
+# Simple Interest Calculator
 
-## Simple Interest Calculator
+This project contains a simple Python script to calculate simple interest.  
+The goal is to demonstrate the migration of code from SVN to Git, following best practices for open-source contributions.
 
-A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+## Features
+- Calculate simple interest given the principal, rate, and time.
 
-```
-Input:
-   p, principal amount
-   t, time period in years
-   r, annual rate of interest
-Output
-   simple interest = p*t*r
-```
-
-_© 2022 XYZ, Inc._
+## Usage
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/simple-interest-calculator.git
